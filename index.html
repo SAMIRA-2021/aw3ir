@@ -1,85 +1,63 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>TP1</title>
-    <meta name="description" content="" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>TP2</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="apple-touch-icon" href="apple-touch-icon.png" />
-    <!-- Place favicon.ico in the root directory -->
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+      
+        <link rel="stylesheet" href="formulaire.css">
+        <script type="text/javascript" src="formulaire.js"></script>
+        <script type="text/javascript" src="java.js"></script>
+        
 
-    <style>
-      body {
-        background-color: #e9ebee;
-        font-family: system, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
-        font-size: 16px;
-        margin: 0 auto;
-        max-width: 800px;
-      }
-    </style>
+        
+    </head>
+    <body>        
+        <h1>Saisie d'une fiche "Personne"</h1>
+        <form action="/action_page.php">
+            <fieldset> 
+             <p>
+                <label for="nom">nom</label> 
+                <input type="text" name="nom" id="nom" placeholder="Ex : BENNACER" size="30" minlength="5" maxlength="20" />
+              </br>
+            </p>        
+                    
+            <p>
+                <label for="prenom">prenom</label> 
+                <input type="text" name="prenom" id="prenom" placeholder="Ex : SAMIRA" size="30" minlength="5" maxlength="20"/>
+            </br>
+            </p>
 
-    <!-- Code à dé-commenter si besoin de fichier CSS ou JS -->
-    <!--<link rel="stylesheet" href="style.css">-->
-    <!--<script src="main.js"></script>-->
-  </head>
-  <body>
-    
-    <!-- Add your site or application content here -->
-    
-    <table width="80%" border="1"> 
-       <tr>
-        <td>BENNACER Samira</td>
-       </tr>
+            <p>
+                <label for="datedenaissance">Date de naissance</label> 
+                <input type="date" name="dateDeNaissance" id="dateDeNaissance" /></br>
+            </p>
 
-     <tr>
-      <td>bennacersamira06@gmail.com</td>
-     </tr>
-   
-<tr>
-  <td>0769012299</td>
-</tr>
-    
-  </table>
-     
-   <!---- <img src="../galilee.png" alt="Logo Galilee" /-->
-   <h1 style="color:rgb(116, 34, 65);">Recerche d'un stage de fin d'études en réseaux et developpement web</h1>
-    
-    <h><a href="Formation/index.html">Formation</a></h>
+            <p>
+                <label for="mail">E-mail</label> 
+                <input type="E-mail" name="mail" id="mail"  size="30" minlength="5"
+                placeholder="nomutilisateur@gmail.com" pattern=".+@gmail.com" maxlength="30"  /></br>
+            </p>
 
-      <ul>
-        <li>2021-2022 : préparation d'un diplome Master en ingénierie et innovation en réseaux et images parcours réseaux</li>
-        <li>2019 : licence en Télécommunications </li>
-        <li>2016 : obtention d'un bac mathématiques</li>
-      </ul> 
+            <p>
+                <label for="adress">adress</label> 
+                <input type="text" name="Address" id="adress" size="30" minlength="5" maxlength="50" /></br>         
+               </p>
+             
+             <input type="button" value="Valider" onclick="validation()">
 
-      <h><a href="Compétences/index.html">Compétences</a></h>
-      <ul>
-        <li>Réseaux : IPV6, LAN, TCP/IP, DHCP, DNS </li>
-        <li>programmation : C,java</li>
-        <li>langue : *Francais *Anglais </li>
-      </ul> 
-
-      <h><a href="Experiences/">experiences</a></h>
-      <ul>
-        <li> 2019: stage de fin de cycle a AEROPORT DE BEJAIA</li>
-        <li>2017: stage ouvrier che AMIMER ENERGIE</li>
-        <li> 2016: stage a ALGERIE TELECOM</li>
-      </ul> 
-
-
-      <h><a href="Centre d'interets/">Centre d'interets</a></h>
-      <ul>
-        <li> Lecture</li>
-        <li>Photographie</li>
-        <li> voyage</li>
-      </ul> 
-
-   
-  </body>
+            
+              <div id="error" class="error" > </div>
+              <div id="result" class="result" > </div>
+               
+            
+            </fieldset>
+           
+          </form>
+           
+    </body>
 </html>
-
-
-
-

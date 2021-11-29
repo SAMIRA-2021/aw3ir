@@ -1,0 +1,208 @@
+<!doctype html>
+<html>
+  <link rel="stylesheet" href="index.css" />
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>TP3</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <!-- Place favicon.ico in the root directory -->
+
+        <style>
+          body{
+              background-color: #e9ebee;              
+              font-family: system, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+              font-size: 16px;
+              margin: 0 auto;
+              max-width: 800px;              
+          }
+        </style>
+
+       <!-- CSS boostrap -->
+<link rel="stylesheet" href="css/bootstrap.css">
+
+<!-- librairie Javascript de boostrap pour pouvoir utiliser les composants interactifs (modal https://getbootstrap.com/docs/5.1/components/modal/ , collapse...) -->
+    <script src="js/bootstrap.bundle.js"></script>
+
+    <script src="js/form-validation.js"></script>
+    </head>
+    <body>       
+       
+     <!---- >  <div class="container">
+           <div class="row content">
+               <div class="col-md-6 ">
+                   <img src="img.jpg" class="img-fluid" alt="image">
+               </div> -->
+              
+               <div class="col-md-6">
+                <h1 class="signin-text mb-3"> Inscription </h1>
+              
+        <form>
+            <div class="row mb-3">
+                <label for="inputnom3" class="col-sm-2 col-form-label">Nom</label>
+                <div class="col-md-8 ">
+                  <input type="text" class="form-control" id="inputnom3">
+                </div>
+              </div>
+              <div class="row mb-3">
+                <label for="inputprenom3" class="col-sm-2 col-form-label">Prenom</label>
+                <div class="col-md-8 mb-3">
+                  <input type="text" class="form-control" id="inputprenom3">
+                </div>
+              </div>
+
+              <div class="row mb-3">
+                <label for="inputdatedesejour" class="col-sm-2 col-form-label">Date de Sejour</label>
+                <div class="col-md-8 mb-3">
+                 <input type="date" class="form-control" id="date" required  placeholder="JJ/MM/AAAA">
+              
+              <span classe="validity"></span>  
+              </div>
+              </div>
+
+            <div class="row mb-3">
+              <label for="inputEmail3" class="col-sm-2 col-form-label">Email</label>
+              <div class="col-md-8 mb-3">
+                <input type="email" class="form-control" id="inputEmail3">
+              </div>
+            </div>
+            <div class="row mb-3">
+              <label for="inputadresse3" class="col-sm-2 col-form-label">Adresse</label>
+              <div class="col-md-8 mb-3">
+                <input type="text" class="form-control" id="inputadresse3">
+              </div>
+            </div>
+
+       
+            <div class="col-auto">
+
+                <input type="button" id="button" class="btn btn-primary" name="button" value="valider"
+                    onclick="window.onload()">
+            </div>
+ 
+        </form>
+       </div>
+    </div>
+</div>
+
+<div class="col-lg-3">
+</div>
+
+
+<div id="error" class "error"></div>
+<div id="resultat" class "resultat"></div>
+
+
+<div class="modal fade" id="myModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Inscription effectuée</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+
+            <div class="modal-body">
+                <p> <a href="http://maps.google.com/maps?q=aquaboulvardparis/">liens maps vers la position de aquaboulvardparis</a></p>
+            </div>
+
+            <div class="modal-body">
+                <span> <img src="boulv.jpg"></img></span>
+            </div>
+
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-bs-dismiss="modal">OK</button>
+
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="myModal1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabe">erreur</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+
+            <div class="modal-body"> Veuillez saisir tous les champs </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-bs-dismiss="modal">OK</button>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="myModal2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLab">erreur</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+
+            <div class="modal-body"> la saisie du nom doit contenir au moins 5 caracteres </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-bs-dismiss="modal">OK</button>
+
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="myModal3" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalL">erreur</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+
+            <div class="modal-body"> la saisie du prenom doit contenir au moins 5 caracteres </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-bs-dismiss="modal">OK</button>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="myModal5" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModa">erreur</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+
+            <div class="modal-body"> la saisie du mail doit respecter la syntaxe </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-bs-dismiss="modal">OK</button>
+
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="myModal6" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleMod">erreur</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+
+            <div class="modal-body"> veuillez selectionner une date valide </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-bs-dismiss="modal">OK</button>
+
+            </div>
+        </div>
+    </div>
+
+</div>
+
+</body>
+
+</html>

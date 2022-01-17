@@ -1,0 +1,25 @@
+
+#a{
+	display: flex;
+	justify-content: space-around;
+	padding-bottom: 30px;
+}
+.b{
+	display: flex;
+	justify-content: space-around;
+	padding-top: 50px;
+}
+#gps{
+	background-color: pink;
+	color: rgb(32, 10, 10);
+	border: solid black;
+	
+}
+#map{
+	margin-left: 90px;
+	margin-bottom: 90px;
+}
+#image{
+	width: 200px;
+	height: 200px;
+}

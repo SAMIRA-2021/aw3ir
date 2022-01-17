@@ -1,20 +1,3 @@
-<<<<<<< Updated upstream
-<p align="center">
-  <a href="https://galilee.univ-paris13.fr/master/master-ingenierie-innovation-images-reseaux-m3ir/">
-     <img src="https://github.com/bilelz/tpaw/blob/master/galilee.png?raw=true" alt="Logo Master" width=100/>
-  </a>  
-  <br/>
- Master² 3IR | <a href="https://master3ir2021.slack.com/messages/aw">master3ir2021.slack.com</a>
-
-# Template Github pour vos TP WEB
-
-
-  Documentation pour configurer votre compte Github : [/configurer_github/readme.md](/configurer_github/readme.md)
-  
-  Page d'index des pages web https://[VOTRE_PSEUDO_GITHUB].github.io/aw3ir/
-  
-  Exemple : https://bilelz.github.io/aw3ir/
-=======
 
 
 
@@ -135,11 +118,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/92260472/ws?session=eyJ2IjoiVjMiLCJ1Ijo5MjI2MDQ3MiwicyI6ODE2MDQ3NTcwLCJjIjoxMTUxMzUwNzg5LCJ0IjoxNjQyNDMxMTg0fQ==--7cdd33d86d3f1b3993b9b8ed61d6122437c99cb7547b8881e16a1b1454503631" data-refresh-url="/_alive" data-session-id="f53fb0ead3c1e2158f4cf776a8b189ec1f4b013b3e971adba34bd674020d1e55">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/92260472/ws?session=eyJ2IjoiVjMiLCJ1Ijo5MjI2MDQ3MiwicyI6ODE2MDQ3NTcwLCJjIjoyNjU3Njg1Njk0LCJ0IjoxNjQyNDMzNjQwfQ==--140954b639f82379fb8efe32aca79cb66dd4c2435c410a2806dcc143dcd8435c" data-refresh-url="/_alive" data-session-id="f53fb0ead3c1e2158f4cf776a8b189ec1f4b013b3e971adba34bd674020d1e55">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-9c817d86.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="F787:EEC2:152653:16C39C:61E582CF" data-pjax-transient="true" /><meta name="html-safe-nonce" content="2f3469c3b2e6a005b215d4fdc54665a5e4cde47e15a8ac4cd5cef9057b8e8c38" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9iaWxlbHovYXczaXIiLCJyZXF1ZXN0X2lkIjoiRjc4NzpFRUMyOjE1MjY1MzoxNkMzOUM6NjFFNTgyQ0YiLCJ2aXNpdG9yX2lkIjoiNDk5ODYwNjI3OTI5NTE1MDUzOSIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="f39b356c37289c6da3dde1422bfd016cd5b6c4bdc8a948ead9706543ec9ef2d5" data-pjax-transient="true" />
+  <meta name="request-id" content="F8FE:5312:1CFD9B:1F0413:61E58C61" data-pjax-transient="true" /><meta name="html-safe-nonce" content="2f3469c3b2e6a005b215d4fdc54665a5e4cde47e15a8ac4cd5cef9057b8e8c38" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9iaWxlbHovYXczaXIiLCJyZXF1ZXN0X2lkIjoiRjhGRTo1MzEyOjFDRkQ5QjoxRjA0MTM6NjFFNThDNjEiLCJ2aXNpdG9yX2lkIjoiNDk5ODYwNjI3OTI5NTE1MDUzOSIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="41daa5dbfd9c6654c0380bf09ff0a30dc598a2d72824590b0dfd800d31359198" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:152870792" data-pjax-transient>
 
@@ -178,7 +161,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="MmNkMTFlN2M0ODUwMjcwZDJlYWM4NGE2OTQwZmIxYTBlZmZkYmQ3MDcwYzNiNDcyMzgyNWRiYzQ5N2Y4MjYzYXx7InJlbW90ZV9hZGRyZXNzIjoiNDYuMTkzLjY4LjU4IiwicmVxdWVzdF9pZCI6IkY3ODc6RUVDMjoxNTI2NTM6MTZDMzlDOjYxRTU4MkNGIiwidGltZXN0YW1wIjoxNjQyNDMxMTg0LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+      <meta name="js-proxy-site-detection-payload" content="MTQzOTU1NzM3N2VmNGJmOTdjYTJhOTc0ODI5YmY2NDczOTNiZTY0NDBlMzgxNTkwYjdhNTlhYTQ2MWQ0ZGE2NXx7InJlbW90ZV9hZGRyZXNzIjoiNDYuMTkzLjY4LjU4IiwicmVxdWVzdF9pZCI6IkY4RkU6NTMxMjoxQ0ZEOUI6MUYwNDEzOjYxRTU4QzYxIiwidGltZXN0YW1wIjoxNjQyNDMzNjQwLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
       <meta name="keyboard-shortcuts-preference" content="all">
       <script type="application/json" id="memex_keyboard_shortcuts_preference">"all"</script>
 
@@ -283,7 +266,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="PyUODaVEE_7jyuI6Edp-ABApgtAH59XkXBBOnYLF0UQXHin8Ntg89KrUcDktnrAZNSOm2-918QGiwn-VVo-byA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="_qGiJ43QiFeS-3N6OAAZA3-6oQl2v5nK1e9pMl9ZTjzWmoXWHkynXdvl4XkERNcaWrCFAp4tvS8rPVg6ixMEsA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -496,7 +479,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/92260472?s=40&amp;v=4" width="20" height="20" alt="@SAMIRA-2021" />
       SAMIRA-2021
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TsCskdnoakZtPcH9bMiYdUYZlqSBgstkVofJ4iD1KgeENnmRuS_w5ULxIbkbv6RF5SX6u19YRaH5tBV7wn-r0Q" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="G7Y4SxDUrlqCXHrKg9UvG7uV_6kLqnG_FuozRsx36zLRQO1LcBM0-a2Qmo70ohMrGKmTttVw_3q52e_fLv1q5A" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -534,7 +517,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTIyNjA0NzIiLCJ0IjoxNjQyNDMxMTg0fQ==--380c0b8a53f7c09d77041599a7198a8c5c02b3382165e8b826a6a9743c91c93f">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTIyNjA0NzIiLCJ0IjoxNjQyNDMzNjQwfQ==--aef64aa901cd6b57b496b38f499f995fe6472348123c87ece4b9ca1e386a2647">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -671,7 +654,7 @@
       data-user-id="92260472"
       >
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="m4iEP1VZWjny2dA1yuhIyNHQC5tteVtFpZCITOaNyRnMqUfTaNphk_Gvud5L0gbWeKoXqFZtV04kdFwQwfs1Lw" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="tQTsUYj3S8d0HtzvK313P13a9HiEPy5LjZqs8LLzcvTiJS-9tXRwbXdotQSqRzkh9KDoS78rIkAMfnislYWOwg" data-csrf="true" class="js-color-mode-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -1365,7 +1348,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="D8GtmDh2Ayt-uAeCwGVGlyHvq2Zu_qqHE3rfwkgXMaCFRS8DKCMvtMCVYE_9ysXbKsU123ND5hFu5HRRPxvHMw" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CakynWYR9t91Jx3s4jxSxiWjM-HY0hekx7_2wg2JDuCDLbAGdkTaQMsKeiHfk9GKLomtXMVvWzK6IV1ReoX4cw" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="152870792">
 
@@ -1488,7 +1471,7 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="-1Bx5jQq-lGbXsJWyFJMcxcxdwbQjynF0o2LUxliiCtx1PN9JH_WziVzpZv1_c8_HBvpu80yZVOvEyDAbm5-uA" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="eO5FXm5X0eaVBbcD5QsKT3CMrShJzkP1kWNJiBpFh8XyasfFfgL9eSso0M7YpIkDe6YzlVRzD2Ps_eIbbUlxVg" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="152870792">
 
@@ -1629,7 +1612,7 @@
   </li>
 
   <li>
-            <form class="btn-with-count" action="/bilelz/aw3ir/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="6U3Es4eNbhHeP0x3s9FH_FwNSZ2lmvs4s1UvVjesItuWfcDRXQvBR6gTquFfnwj0sjSFTtl2B0kF5ZkGme4m4A" autocomplete="off" />
+            <form class="btn-with-count" action="/bilelz/aw3ir/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jfFdXR_kmYPE0nie0Db2fFEbBEPoGybC8pNUQ66mOXXywVk_xWI21bL-ngg8eLl0vyLIkJT32rNEI-ITAOQ9Tg" autocomplete="off" />
         <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:152870792,&quot;originating_url&quot;:&quot;https://github.com/bilelz/aw3ir/blob/master/README.md&quot;,&quot;user_id&quot;:92260472}}" data-hydro-click-hmac="7ae28596a4047f733d0ec7b98245bc9a647d59ce9c9e42d215cc2e3556861dee" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of bilelz/aw3ir to your account" type="submit" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
@@ -1640,7 +1623,7 @@
   <li>
         
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto" action="/bilelz/aw3ir/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="0kGj4hFWxG0qjc4QC94i6v_7wNcoZvevFRmhA2U4V9EALq0Jj42TtFA0nal6H0JfBuqcHaGFVlWFtreZdlUhrw" autocomplete="off" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto" action="/bilelz/aw3ir/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="bT1ahTPri91M7V8An4ieYk3uIw61lxEY2Serd5dgf_e_UlRurTDcBDZUDLnuSf7XtP9_xDx0sOJJiL3thA0JiQ" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
       <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:152870792,&quot;originating_url&quot;:&quot;https://github.com/bilelz/aw3ir/blob/master/README.md&quot;,&quot;user_id&quot;:92260472}}" data-hydro-click-hmac="c2fb378eca24558b4d1a3aceb7d8d62a8d4b1342ca58bb4ef38486bb46171289" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
@@ -1648,7 +1631,7 @@
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="1 user starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="1" data-view-component="true" class="Counter js-social-count">1</span>
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" action="/bilelz/aw3ir/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="INVbJ0Bo2rqEEavVxhk76fUuYUJq8Ccxbh_AZ_JSXLZxMCKtizqGsvqCHVhrk_ZL7Es19batbJMVbfAjOBclaQ" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" action="/bilelz/aw3ir/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="G6rjQWorV9tbqi3WNUnhm9FS_ksCNu28jsdP1LWsRVBKT5rLoXkL0yU5m1uYwyw5yDeq_N5rph71tX-Qf-k8jw" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
       <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:152870792,&quot;originating_url&quot;:&quot;https://github.com/bilelz/aw3ir/blob/master/README.md&quot;,&quot;user_id&quot;:92260472}}" data-hydro-click-hmac="c3250ea686c39514c59a7b56e9852a23035dda944275ff58f3c1e4d8690eb525" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
@@ -1656,7 +1639,7 @@
           Star
 </span>          <span id="repo-stars-counter-star" aria-label="1 user starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="1" data-view-component="true" class="Counter js-social-count">1</span>
 </button></form>
-      <details id="details-24b5d3" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+      <details id="details-ca0cc1" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
       <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="M4.427 7.427l3.396 3.396a.25.25 0 00.354 0l3.396-3.396A.25.25 0 0011.396 7H4.604a.25.25 0 00-.177.427z"></path>
 </svg>
@@ -1664,7 +1647,7 @@
   <div class="Box-header">
     <h2 class="Box-title">Create list</h2>
   </div>
-  <form class="Box-body d-flex flex-column p-3 js-user-list-form" action="/stars/SAMIRA-2021/lists" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MdYn8UU786xYDE5x5MsFtCoMdERUP2pZbp4vu4NsPf_9Y2Oy-0etkot5aUkST_4w28Xp29EMjvrWgdtXz0T7sg" autocomplete="off" />
+  <form class="Box-body d-flex flex-column p-3 js-user-list-form" action="/stars/SAMIRA-2021/lists" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="rHGsn1UjDtyUj1MjK42duBs6GO3Tmgo2yF2I575OSxRgxOjc619Q4kf6dBvdCWY86vOFclap7pVwQnwL8maNWQ" autocomplete="off" />
         <p class="color-fg-subtle mb-3">Create a list to organize your starred repositories.</p>
       <input type="hidden" name="repository_id" value="{{ repositoryId }}">
 
@@ -1684,7 +1667,7 @@
           required
         >
       </text-expander>
-      <input type="hidden" value="GnKOS9CNO477dXtaY5oA3TLpCbnVYIu_dLtr9aLt518UzRSmyjNkBqQ4ewlXs5zE0AvTsQ1m4awHOC5cy29h4g" data-csrf="true" />
+      <input type="hidden" value="4IWedXRxGMAdJedRtOoRjWgYR-JJqeN-3YKPCVHZBiDuOgSYbs9HSEJo5wKAw42Uivqd6pGviW2uAcqgOFuAnQ" data-csrf="true" />
     </auto-check>
     <p
       class="note error position-relative js-user-list-error"
@@ -1748,13 +1731,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-24b5d3">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-ca0cc1">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-24b5d3"
+        id="filter-menu-ca0cc1"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2163,17 +2146,80 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/bilelz/aw3ir/contributors/master/README.md" class="commit-loader">
-        <div class="Box-header d-flex flex-items-center">
-          <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
-          <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
-        </div>
+      
+  <div class="Box-header Details js-details-container">
+      <div class="d-flex flex-items-center">
+        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
+          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/bilelz/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/bilelz"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/1426314?s=48&amp;v=4" width="24" height="24" alt="@bilelz" /></a>
+        </span>
+        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
+          <div class="css-truncate css-truncate-overflow">
+            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/bilelz/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/bilelz">bilelz</a>
 
-        <div class="Box-body d-flex flex-items-center" >
-          <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
-          <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
+              <span class="markdown-title">
+                <a data-pjax="true" title="/configurer_github/readme.md" class="Link--secondary" href="/bilelz/aw3ir/commit/9b135681e85b3d8b41fbd2d23000c2558c211547">/configurer_github/readme.md</a>
+              </span>
+          </div>
+
+
+          <span class="ml-2">
+            <include-fragment accept="text/fragment+html" src="/bilelz/aw3ir/commit/9b135681e85b3d8b41fbd2d23000c2558c211547/rollup?direction=e" class="d-inline"></include-fragment>
+          </span>
         </div>
-</include-fragment>    </div>
+        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
+          <span class="d-none d-md-inline">
+            <span>Latest commit</span>
+            <a class="text-small text-mono Link--secondary" href="/bilelz/aw3ir/commit/9b135681e85b3d8b41fbd2d23000c2558c211547" data-pjax>9b13568</a>
+            <span itemprop="dateModified"><relative-time datetime="2021-10-08T09:41:09Z" class="no-wrap">Oct 8, 2021</relative-time></span>
+          </span>
+
+          <a data-pjax href="/bilelz/aw3ir/commits/master/README.md" class="ml-3 no-wrap Link--primary no-underline">
+            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
+    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
+</svg>
+            <span class="d-none d-sm-inline">
+              <strong>History</strong>
+            </span>
+          </a>
+        </div>
+      </div>
+
+  </div>
+
+  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
+    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
+      <summary class="Link--primary">
+        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
+    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
+</svg>
+        <strong>1</strong>
+        
+        contributor
+      </summary>
+      <details-dialog
+        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+        aria-label="Users who have contributed to this file"
+        src="/bilelz/aw3ir/contributors-list/master/README.md" preload>
+        <div class="Box-header">
+          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+          </button>
+          <h3 class="Box-title">
+            Users who have contributed to this file
+          </h3>
+        </div>
+        <include-fragment>
+          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+        </include-fragment>
+      </details-dialog>
+    </details>
+  </div>
+    </div>
 
 
       
@@ -2256,7 +2302,7 @@
             </span>
 </span>
 </remote-clipboard-copy>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/bilelz/aw3ir/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JSTfNvH0fr7YhqeRO9l__C44ASUKfF9lXmHeaK7T8_v6Ba7DbuURYvf0lufv_Z_cEZ64HnI1GB9zS8i_SHbDgA" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/bilelz/aw3ir/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5mVe-lCtfrXH75mygMmQ6CO17lJnwHVgSh9lYahKDZY5RC8Pz7wRaeidqMRU7XDIHBNXaR-JMhpnNXO2Tu897Q" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit the file in your fork of this project" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -2264,7 +2310,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/bilelz/aw3ir/delete/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MovqnkPvbcdsdggsVOtxggDdhhfrxfECvR0Nf0UWlZNlMFoljLHYQ3fwog1iUlUJ5ZFCaomwHfQ2B7Ljfhbe3Q" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/bilelz/aw3ir/delete/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lCeR7zutwY1dKVrM9OAm2ToPB9AwnDGHpvFouRqlPFTDnCFU9PN0CUav8O3CWQJS30PDrVLp3XEt69clIaV3Gg" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete the file in your fork of this project" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2488,4 +2534,3 @@
   </body>
 </html>
 
->>>>>>> Stashed changes

@@ -2,37 +2,28 @@ $(document).ready(function(){
 	//intercepte le boutton valider et ecris ds la modal
   $("#Ajouter").click(function(event){
 	event.preventDefault();
-	//var city = $("#adresse").val();
+
 	
 
   	if($('#nom').val() != "" && $('#prenom').val() != "" && $('#date').val() != "" && $('#adresse').val() != "" && $('#mail').val() != ""){
    		$('#myModal').modal({show : true})
    		$('.modal-title').text("Bienvenue " + $('#nom').val() );
-   		$('.modal-body').html("aaaaaaaaaaaaa");
+   		$('.modal-body').html("Bravo, ajout réussi a la liste");
 			
 		   
 			//ajout a la table 
 		   contactStore.add($('#nom').val(), $('#prenom').val(), $('#date').val(), $('#adresse').val(), $('#mail').val());
-		   //stockage data en string -----> stringify---->js object to String
 		    localStorage.setItem('contactList', JSON.stringify(contactStore.getList()));
 		   
 		   AfficherList();
-
-
 	}
-		   
-	  
-
    else {
    	$('#myModal').modal({show : true})
-   $('.modal-title').text("Erreur");
+   $('.modal-title').text("Error");
    $('.modal-body').text("la saisie de touts les champs est obligatoire");
 
    }
-
-   	
   });
-  
 
 });
 //interception du boutton GPS
@@ -40,8 +31,6 @@ window.onload = function (){
 	document.querySelector('#gps').addEventListener("click", function (event) {
 		getLocation();
 	});
-
-
 };
 //calcul nbr de carac en temps reel "onkeyup jquery"
 $(document).keyup(function () {
